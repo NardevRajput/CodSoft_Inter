@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: #000;
+}
+.heading{
+    h1{
+        color: #ffe600;
+        margin-left: 45%;
+    }
+}   
+.Cal_box{
+    width: 334px;
+    height: 510px;
+    position: relative;
+    margin: 7% auto;
+    background: #bdebec;
+    padding: 5px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+#display{
+    border: #ffe600;
+    border-radius: 5px;
+    box-sizing: 2px;
+    .zero{
+    background-color: #222;
+    color: #fff;
+    font-size: 2em;
+    height:30px;
+    width: 286px;
+    padding: 22px;
+    text-align: right
+    }
+}
+.box{
+    background-color: #ffffff;
+    height: 389px;
+    width: 292px;
+    border: rgb(119, 118, 117);
+    border-radius: 5px;
+    font-size: 35px;
+    padding: 21px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row1{
+    background-color: rgb(231, 228, 222);
+    border: none;
+    border-radius: 70px;
+    font-size: 14px;
+    padding: 15px;
+    position: relative;
+    left: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row1_org{
+    color: rgb(245, 147, 0);
+    background-color: rgb(231, 228, 222);
+    border: none;
+    border-radius: 70px;
+    font-size: 14px;
+    padding: 15px;
+    position: relative;
+    left: 0px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row2{
+    background-color:rgb(214, 211, 208);
+    border: none;
+    border-radius: 70px;
+    font-size: 14px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row3{
+    background-color:yellow;
+    border: none;
+    border-radius: 70px;
+    font-size: 14px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row3_emet{
+    background-color:rgb(223, 223, 215);
+    border: none;
+    border-radius: 70px;
+    font-size: 14px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row4{
+    background-color:rgb(230, 230, 223);
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row4_multi{
+    background-color:yellow;
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;  
+}
+.btn_row5{
+    background-color:rgb(230, 230, 223);
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row5_minus{
+    background-color:yellow;
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s; 
+}
+.btn_row6{
+    background-color:rgb(230, 230, 223);
+    border: none;
+    border-radius: 70px;
+    font-size: 15px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row6_plus{
+    background-color:yellow;
+    border: none;
+    border-radius: 70px;
+    font-size: 15px;
+    margin: 5px;
+    padding: 15px;
+    position: relative;
+    left: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s 
+}
+.btn_row7{
+    background-color:rgb(230, 230, 223);
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 14px;
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn_row7_equ{
+    background-color:rgb(255, 123, 0);
+    border: none;
+    border-radius: 70px;
+    font-size: 18px;
+    margin: 5px;
+    padding: 14px;
+    position: relative;
+    left: 2px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}

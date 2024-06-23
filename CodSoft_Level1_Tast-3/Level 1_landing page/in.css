@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: century;
+}
+.container a{
+ text-decoration: none;
+    margin-left: 55px;
+    padding: 5px;
+    display: inline-block;
+} 
+.container{
+    background:linear-gradient(to right, #f0e772,#e688ce);
+}
+.nav_var{
+    color: #fff;
+    a {
+        text-decoration: none;
+    color: rgb(224, 217, 217);
+    margin-left: 15px;
+    position: relative;
+    left: 60%;
+    }
+}
+b a:hover{
+    background-color: #fff;
+    color: black;
+}
+.page a.active b{
+    background-color: #fff;
+    color: black;
+}
+.content{
+    background-image: linear-gradient(rgba(12, 11, 11, 0.4),rgba(2, 2, 2, 0.4)),url(pexels-dreamypixel-552784.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    min-height: 100px;
+    color: rgb(255, 255, 255);
+    h1{
+        font-size: 45px;
+        margin-left: 140px;
+    }
+    h2{
+        font-size: 25px;
+        margin-left: 140px;
+    }
+    p{
+        font-size: 17px;
+        margin-left: 140px;
+    }
+}
+.email{
+    position: relative;
+    left: 28%;
+    text-transform:lowercase;
+    color: black;
+}
+.num{
+    position: relative;
+    left: 30%;
+    color: black;
+}
+#image{
+    margin: 1488px;
+    padding: 1080px;
+}
+.about_Sec{
+    i{
+        margin-left: 140px;
+        padding: 35px;
+    }
+    p{
+        color: #fff
+    }
+    height: 80px;
+    margin-top: 35px;
+}
+#foot{
+    background-color: #fff;
+    h2{
+        margin-left: 145px;
+        font-size: 40px;
+    }
+   p{
+    margin-left: 140px;
+    font-size: 17px;
+    padding: 20px;
+   } 
+}
+#btn{
+    height: 35px;
+    width: 100px;
+    border-radius: 25px;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #ee9db8,#a38958);
+    position: relative;
+    left: 155px;
+}
+#img{
+    background-image: url(360_F_572644252_XNOHOOlknDnZdLoJjpusEZt8pjwJplZ4.jpg);
+    margin-top: -184px;
+    height: 200px;
+    width: 428px;
+    margin-left: 900px;
+    padding: 70px;
+}
+#Servies{
+    margin-left: 140px;
+    h1{
+        font-size: 25px;
+    }
+    i{
+        font-size: 11px;
+    }
+    h3 {
+        display: block;
+        font-size: 1.17em;
+        margin-block-start: 12em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold;
+        unicode-bidi: isolate;
+    }
+}
+#exp{
+    background-image: url(cartoon-3d-character-developer-designer-260nw-2212355381.webp);
+    height: 158px;
+    width: 247px;
+    margin-left: 0px;
+    background-size: cover;
+}
+#cd{
+    background-image: url(images.jpeg);
+    height: 165px;
+    width: 240px;
+    margin-left: 35px;
+    background-size: cover;
+}
+#dm{
+    background-image: url(digitalmarketing.png);
+    height: 165px;
+    width: 306px;
+    margin-left: 35px;
+    background-size: cover;
+}
+#wd{
+    background-image: url(download.jpeg);
+    height: 165px;
+    width: 218px;
+    margin-left: 35px;
+    background-size: cover;
+}
+#copy_right{
+background-image: linear-gradient(to right, #ee9db8,#a38958);
+height: 79px;
+padding: 42px;
+margin: 0%;
+h4{
+    margin-left: 20px;
+    font-size: 20px;
+}
+}
